@@ -70,7 +70,7 @@ A movie web application built with **React + API integration**, allowing users t
 ## 🌐 Connect with Me  
 
 - 📧 **Email:** dareenhousam6@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/dareen-housam-240b13325](https://www.linkedin.com/in/dareen-housam-240b13325)  
+- 💼 **LinkedIn:** [linkedin.com/in/dareen-housam](https://www.linkedin.com/in/dareen-housam)  
 - 📂 **Portfolio:** [Check out my repositories](https://github.com/Dareen-Housam?tab=repositories)  
 
 ---
