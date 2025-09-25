@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-I’m a **3rd-year Computer Science student at Ain Shams University** with a passion for building **modern, responsive, and user-friendly web applications**.  
+I’m a **4th-year Computer Science student at Ain Shams University** with a passion for building **modern, responsive, and user-friendly web applications**.  
 
 - 👩‍💼 **Frontend Head** at [OSC – Open Source Community](https://oscgeeks.org/), leading the official website development and training new members.  
 - 🌱 Currently specializing in **React**, **UI/UX**, and advanced frontend frameworks.  
@@ -54,6 +54,9 @@ Official website for **OSC (Open Source Community)** at Ain Shams University. In
 
 ### 🥛 [B-Laban Website](https://dareen-housam.github.io/B-Laban/)  
 Creative web project dedicated to **B-Laban** with modern UI/UX and interactive design.  
+
+### 🚖 [Driver Scheduling Dashboard](https://driver-scheduling-dashboard-chi.vercel.app/) 
+An interactive dashboard for managing driver schedules.
 
 ### 🎬 [Movie App](https://iti-mean-movie.vercel.app/)  
 A movie web application built with **React + API integration**, allowing users to browse and search for movies dynamically.  
