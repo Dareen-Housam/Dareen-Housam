@@ -55,9 +55,6 @@ Official website for **OSC (Open Source Community)** at Ain Shams University. In
 ### 🥛 [B-Laban Website](https://dareen-housam.github.io/B-Laban/)  
 Creative web project dedicated to **B-Laban** with modern UI/UX and interactive design.  
 
-### 🚖 [Driver Scheduling Dashboard](https://driver-scheduling-dashboard-chi.vercel.app/) 
-An interactive dashboard for managing driver schedules.
-
 ### 🎬 [Movie App](https://iti-mean-movie.vercel.app/)  
 A movie web application built with **React + API integration**, allowing users to browse and search for movies dynamically.  
 
@@ -65,8 +62,8 @@ A movie web application built with **React + API integration**, allowing users t
 
 ## 📊 GitHub Stats  
 
-![Dareen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dareen-Housam&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dareen-Housam&layout=compact&theme=radical)  
+![Dareen's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Dareen-Housam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dareen-Housam&layout=compact&theme=radical)
 
 ---
 
