@@ -58,6 +58,12 @@ Creative web project dedicated to **B-Laban** with modern UI/UX and interactive 
 ### 🎬 [Movie App](https://iti-mean-movie.vercel.app/)  
 A movie web application built with **React + API integration**, allowing users to browse and search for movies dynamically.  
 
+### 💎 [Diamond Jewellery Boutique](https://dareen-housam.github.io/Diamond/)
+A luxury e-commerce landing page featuring **3D-flip product galleries**, complex hover animations, and a sophisticated mega-menu. Built with a focus on high-end UI/UX.
+
+### ☁️ [Sugar Clouds Academy](https://dareen-housam.github.io/sugar-clouds/)
+A responsive landing page for a dessert academy. It features custom-styled application forms, success story carousels, and smooth scroll navigation.
+
 ---
 
 ## 📊 GitHub Stats  
